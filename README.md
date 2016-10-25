@@ -2,7 +2,7 @@
 
 Repository contains various Yocto images for the Project Lighthouse.
 
-__Latest release__: [v0.0.1](https://github.com/project-lighthouse/yocto-images/releases/v0.0.1)
+__Latest release__: [v0.0.2](https://github.com/project-lighthouse/yocto-images/releases/v0.0.2)
 
 # Instructions
 
@@ -12,5 +12,5 @@ Example:
 
 1. Download and unpack `image-va.b.c.zip`;
 2. Write image to your SD Card as described [here](https://www.raspberrypi.org/documentation/installation/installing-images/);
-3. Open your favorite disk manager (eg. GParted, Disk Utility etc.) and resize the second partition as you like;
+3. Open your favorite disk manager (eg. GParted, fdisk + resize2fs etc.) and resize the second partition as you like;
 4. Enjoy!
