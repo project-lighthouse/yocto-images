@@ -2,7 +2,7 @@
 
 Repository contains various Yocto images for the Project Lighthouse.
 
-__Latest release__: [v0.0.6](https://github.com/project-lighthouse/yocto-images/releases/v0.0.6)
+__Latest release__: [v0.0.7](https://github.com/project-lighthouse/yocto-images/releases/v0.0.7)
 
 # Instructions
 
